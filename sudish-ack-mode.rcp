@@ -1,0 +1,5 @@
+
+(:name sudish-ack-mode
+       :type git
+       :url "git://github.com/sudish/ack-mode.el.git"
+       :load "ack-mode.el")

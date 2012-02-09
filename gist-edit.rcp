@@ -1,0 +1,7 @@
+(:name gist-edit
+       :website "http://github.com/rsanders/gist-edit"
+       :description "Emacs mode for editing files in a Gist repo"
+       :type git
+       :url "git://github.com/rsanders/gist-edit.git"
+       :depends (magit magithub gist github-api-v3)
+       :load "gist-edit-autoloads.el")
